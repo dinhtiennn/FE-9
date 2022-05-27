@@ -144,7 +144,7 @@ body{
 
 
 #home {
-    background: url(./assets/img/Group_1/background.png) top center /cover no-repeat;
+    background: url(/assets/img/Group_1/background.png) top center /cover no-repeat;
     padding-top: 66%;
     position: relative;
     margin-top: 40px;
